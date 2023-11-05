@@ -1,2 +1,3 @@
 # Bike-Sales-2023-Data-Analysis-Project
-This prject demonstrates Bike Part Sales.
+This project demonstrates Bike Part Sales in 2023.
+Used Tools : Excel, Power BI.
